@@ -1,0 +1,15 @@
+body{
+    background-image: url(back1.webp);
+}
+form{
+    margin-top: 170px;
+    margin-left: 550px;
+}
+input{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+}
+

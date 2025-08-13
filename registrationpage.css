@@ -1,0 +1,42 @@
+body{
+    background-image: url(back2.webp);
+    background-repeat: no-repeat;
+    background-size: 1700px 750px ;
+}
+form{
+    border: solid 1px;
+    width: 450px;
+    margin-left: 300px;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue;
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+button{
+    height: 35px;
+    width: 120px;
+    color: blue;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+p{
+    color: brown;
+    font-size: 22px;
+    
+}

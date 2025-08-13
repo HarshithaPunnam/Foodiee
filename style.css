@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(back3.webp);
+    background-repeat: no-repeat;
+    background-size: 1720px 720px;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 170px;
+    font-size: 70px;
+}
+button{
+    color: aqua;
+    height: 60px;
+    width: 160px;
+    border-radius: 20px;
+    background-color: rgb(44, 229, 246);
+}
+button a{
+    color: rgb(24, 23, 26);
+    text-decoration: none;
+}
+#btn1{
+    margin-left: 600px;
+    margin-right: 30px;
+}
+

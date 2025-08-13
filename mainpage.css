@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}.obox{
+    border: solid 1px;
+    height: 730px;
+    background-image: url(background1.jpeg);
+    background-repeat: none;
+    background-size: 1520px 700px;
+}
+#in1{
+    border: solid 1px hidden;
+    height: 50px;
+
+}
+#in2{
+    border: solid 1px hidden;
+    height: 650px;
+}
+
+ul li{
+    border: solid 1px hidden;
+    height: 50px;
+    width: 160px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    color: black;
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul li:hover{
+    background-color: brown;
+}
+h1{
+    color: rgb(13, 13, 14);
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+p{
+    text-align: center;
+    color: rgb(4, 4, 4);
+    font-size: 40px;
+    font-weight: bold;
+}
